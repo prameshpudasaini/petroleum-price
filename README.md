@@ -1,4 +1,3 @@
-# petroleum-price-trend-Nepal
 This respository includes my data analyses and visualizations vis-à-vis the trend of price of petroleum products in Nepal.
 
 Data sources:\
